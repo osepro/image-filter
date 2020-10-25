@@ -52,4 +52,4 @@ Add your own domain name and have it point to the running services (try adding a
 
 ### EndPoint URL
 
-[The RestAPI EndPoint](ImageFilter-dev.us-west-1.elasticbeanstalk.com)
+[The RestAPI EndPoint](http://imagefilter-dev.us-west-1.elasticbeanstalk.com/filteredimage)
